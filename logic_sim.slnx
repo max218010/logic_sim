@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="logic_sim/logic_sim.vcxproj" />
+  <Project Path="logic_sim/logic_sim.vcxproj" Id="8e8324d6-5d78-4967-8c8b-8c4f49913990" />
 </Solution>
